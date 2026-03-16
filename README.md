@@ -14,7 +14,7 @@ This project automates that triage step using a Multi-Output machine learning mo
 
 ## 🔗 Live Demo
 
-**Try it here → [ai-task-manager.streamlit.app](https://ai-task-manager.streamlit.app)**
+**Try it here → [ai-task-manager.streamlit.app](https://ai-task-manager1.streamlit.app/)**
 
 Type any task description in plain English and the system predicts all nine attributes at once.
 
